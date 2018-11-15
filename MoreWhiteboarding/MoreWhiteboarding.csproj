@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="ArrMerger.cs" />
     <Compile Include="BracketValidator.cs" />
+    <Compile Include="BracketValidatorBetter.cs" />
     <Compile Include="DupCheck.cs" />
     <Compile Include="IntArraySorter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
