@@ -1,0 +1,1 @@
+These are the most recent whiteboard questions I looked at. Each class in the class library contains the question in a comment at the top of the class. The unit tests validate the solutions. The bracket validation one definitely required the most thinking. Please feel free to critique and improve my code.
